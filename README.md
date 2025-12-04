@@ -55,4 +55,3 @@ Collection of exercises and small prototypes developed during courses in automat
 
 Below is the current folder structure of this portfolio repository:
 
-
