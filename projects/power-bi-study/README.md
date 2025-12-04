@@ -34,5 +34,47 @@ Pie chart + slicers for Region, City, and State.
 
 ---
 
-###
+### **3️⃣ Regional Sales Overview**
+Bar chart grouped by region with Month, Gender, and State filters.
+
+![Region Chart](./images/Screenshot%202025-12-03%20225339.png)
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Data cleaning and transformation  
+- Building interactive and dynamic dashboards  
+- DAX basics  
+- Visual pattern analysis  
+- Business intelligence storytelling  
+- KPI-based layout design  
+
+---
+
+## 📁 Files Included
+
+- **estudo power bi.pbix** — Main Power BI dashboard  
+- **/images** — Folder containing images of the report used in this README  
+
+---
+
+## 🚀 How to Open the Project
+
+1. Download the `.pbix` file  
+2. Open it in **Microsoft Power BI Desktop**  
+3. Navigate through the pages and interact with the filters  
+
+---
+
+## 📝 Notes
+
+This study project represents part of my development in analytics and Power BI.  
+More dashboards and BI analyses will be added as I continue learning.
+
+---
+
+📬 **Contact:**  
+**GitHub:** https://github.com/rosa-carolina  
+**LinkedIn:** https://www.linkedin.com/in/carolina-resende-rosa-b26909252
 
