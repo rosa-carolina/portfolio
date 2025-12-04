@@ -1,53 +1,81 @@
 # 📊 Power BI Study Project
 
-This folder contains a Power BI dashboard developed as part of my analytical and data visualization studies.  
-The objective of this project is to practice data modeling, visualization techniques, and insight extraction using Power BI.
+This project is a Power BI dashboard created as part of my learning journey in data visualization, business intelligence, and analytical reporting.  
+It demonstrates my ability to work with data modeling, build interactive visuals, and design clean and effective dashboards.
 
 ---
 
-## 🎯 Project Overview
+## 🌐 Dashboard Overview
 
-This project demonstrates:
+The dataset used in this project contains sales information, allowing the creation of visuals that answer business questions such as:
 
-- Data transformation and cleaning  
-- Dashboard design using Power BI visuals  
-- KPI creation and metric calculation  
-- Visual storytelling and analytical insight extraction  
-- Report structuring for decision-making  
+- Which product categories generate the most revenue?
+- How does total sales distribution vary across regions?
+- What is the contribution of each category within the total revenue?
+- How do states, gender, and months influence sales performance?
+
+Below are snapshots of the report pages included in the `.pbix` file.
+
+---
+
+## 📸 Visualizations Included
+
+### **1️⃣ Category Revenue Breakdown**
+Treemap + Table  
+Shows revenue contribution for each product category.  
+
+![Category Treemap](./images/category_treemap.png)
+
+---
+
+### **2️⃣ Category Distribution with Filters**
+Pie chart with slicers for Region, City, and State.  
+
+![Dropdown Category](./images/category_dropdown.png)
+
+---
+
+### **3️⃣ Regional Sales Overview**
+Bar chart showing revenue by region, with filters for month, gender, and state.
+
+![Region Chart](./images/region_chart.png)
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- Data modeling  
-- DAX basics  
-- Visual formatting and layout design  
-- Performance optimization concepts  
-- Analytical thinking  
+- Data cleaning and transformation  
+- Building interactive dashboards  
+- Creating slicers and custom filters  
+- Visual storytelling  
+- KPI organization  
+- Layout and UX design in BI reports  
 
 ---
 
 ## 📁 Files Included
 
-- **estudo power bi.pbix** → main Power BI file  
+- **estudo power bi.pbix** – main Power BI report  
+- **/images** – folder containing report screenshots (add your .png files here)
 
 ---
 
-## 🚀 How to Open the Project
+## 🚀 How to Use
 
 1. Download the `.pbix` file  
-2. Open it in **Microsoft Power BI Desktop**  
-3. Explore the report pages, filters, KPIs, and visuals  
+2. Open it using **Microsoft Power BI Desktop**  
+3. Explore the report tabs and interact with the slicers  
+4. View the visual breakdowns and insights  
 
 ---
 
-## 📌 Notes
+## 📝 Notes
 
-This project is part of my continuous development in analytics and business intelligence.  
-More Power BI projects will be added as I evolve in data visualization and automation.
+This project represents part of my continuous development in business intelligence and data analytics.  
+More dashboards and BI projects will be added soon.
 
 ---
 
-📬 **Contact:**  
-GitHub: https://github.com/rosa-carolina  
-LinkedIn: https://www.linkedin.com/in/carolina-resende-rosa-b26909252
+📬 **Contact**  
+- GitHub: https://github.com/rosa-carolina  
+- LinkedIn: https://www.linkedin.com/in/carolina-resende-rosa-b26909252
