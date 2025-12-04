@@ -51,5 +51,8 @@ Collection of exercises and small prototypes developed during courses in automat
 - **Excel: Beginner to Advanced**  
 - **Microsoft Power BI i**
 
+## 🗂 Repository Structure
+
+Below is the current folder structure of this portfolio repository:
 
 
