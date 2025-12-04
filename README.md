@@ -55,3 +55,17 @@ Collection of exercises and small prototypes developed during courses in automat
 
 Below is the current folder structure of this portfolio repository:
 
+```
+portfolio/
+├── projects/
+│   └── power-bi-study/
+│       ├── README.md
+│       ├── images/
+│       │   ├── Screenshot 2025-12-03 225302.png
+│       │   ├── Screenshot 2025-12-03 225314.png
+│       │   └── Screenshot 2025-12-03 225339.png
+│       └── estudo power bi.pbix
+├── README.md
+```
+
+
