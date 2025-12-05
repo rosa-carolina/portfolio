@@ -39,6 +39,10 @@ Collection of exercises and small prototypes developed during courses in automat
 - Introduction to Automation and Basic Electronics (40h)  
 - Workplace Development (40h)
 
+### 🛠️ IFSP — Federal Institute of Education
+- **Technical Degree in Mechatronics**  
+  *Completed in 2023 — hands-on experience in electronics, automation, control systems, mechanical design, and embedded technology.*
+
 ### 📘 Senai
 - Industry 4.0 Foundations  
 - Workforce Preparation
@@ -47,9 +51,9 @@ Collection of exercises and small prototypes developed during courses in automat
 - Engineers Without Borders: Global Problem Solving — IMT
 
 ### 🎓 Udemy Certifications
-- **Git and GitHub**  
-- **Excel: Beginner to Advanced**  
-- **Microsoft Power BI i**
+- Git and GitHub  
+- Excel: Beginner to Advanced  
+- Microsoft Power BI  
 
 ## 🗂 Repository Structure
 
