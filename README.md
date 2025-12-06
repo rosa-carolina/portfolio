@@ -69,9 +69,29 @@ Below is the current folder structure of this portfolio repository:
 │   │   │   └── Screenshot 2025-12-03 225339.png
 │   │   └── 📊 estudo power bi.pbix
 │   │
-│   └── 📂 excel-studies/
+│   ├── 📂 excel-studies/
+│   │   ├── 📝 README.md
+│   │   └── 📘 estudos excel.xlsx
+│   │
+│   └── 📂 3d-printing-solidworks/
 │       ├── 📝 README.md
-│       └── 📘 estudos excel.xlsx
+│       ├── 🖼️ images/
+│       │   ├── bolinhas.jpg
+│       │   ├── meia orbit.jpg
+│       │   ├── orbit ball.jpg
+│       │   ├── orbit solid.jpg
+│       │   ├── presilha 1.jpg
+│       │   ├── presilha 2.jpg
+│       │   └── presilha 3.jpg
+│       ├── 🧩 Assem1.SLDASM
+│       ├── 🧩 Meia-Peça.SLDPRT
+│       ├── 🧩 Part1.SLDPRT
+│       ├── 🧩 Conector2.SLDPRT
+│       ├── 🧩 Presilha.SLDPRT
+│       ├── 🧩 Presilha-2.0.SLDPRT
+│       ├── 🧩 Presilha-3.0.SLDPRT
+│       └── 🧩 Presilha-3.5.SLDPRT
 │
 └── 📝 README.md
 ```
+
